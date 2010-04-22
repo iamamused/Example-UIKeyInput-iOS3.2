@@ -1,0 +1,316 @@
+TTextEditing
+v7
+r0
+t293593187.933488
+cCheck dependencies
+cProcessInfoPlistFile "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/Info.plist" TextEditing-Info.plist
+cCompileXIB "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/MainWindow.xib"
+cCompileXIB "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditingViewController.xib"
+cProcessPCH /var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch.gch TextEditing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/main.o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingAppDelegate.o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingViewController.o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/UIKeyInputExampleView.o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/UIKeyInputExampleView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing" normal i386
+cGenerateDSYMFile "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app.dSYM" "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing"
+cTouch "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004BCE4F180000000000000110
+t1271811864
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BC6B28900000000002797F0
+t1271313033
+s2594800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BC6B29800000000002772A0
+t1271313048
+s2585248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BC6B28C0000000000001466
+t1271313036
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BC6CA8F00000000000009CD
+t1271319183
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BC6CB630000000002435FA0
+t1271319395
+s37969824
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/EditingView.h
+c000000004BCFA39D0000000000000139
+t1271899037
+s313
+i<UIKit/UIKit.h>
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/EditingView.m
+c000000004BCFA7A30000000000000824
+t1271900067
+s2084
+i"EditingView.h"
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingAppDelegate.h
+c000000004BCFA2BF00000000000001F9
+t1271898815
+s505
+i<UIKit/UIKit.h>
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingAppDelegate.m
+c000000004BCFA2BF000000000000026A
+t1271898815
+s618
+i"TextEditingAppDelegate.h"
+i"TextEditingViewController.h"
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingViewController.h
+c000000004BCFA2BF00000000000000FC
+t1271898815
+s252
+i<UIKit/UIKit.h>
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingViewController.m
+c000000004BCFA8BD000000000000068F
+t1271900349
+s1679
+i"TextEditingViewController.h"
+i"UIKeyInputExampleView.h"
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/UIKeyInputExampleView.h
+c000000004BCFA8BD0000000000000143
+t1271900349
+s323
+i<UIKit/UIKit.h>
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/UIKeyInputExampleView.m
+c000000004BCFA8D400000000000005F0
+t1271900372
+s1520
+i"EditingView.h"
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/MainWindow.xib
+c000000004BCFA2BF0000000000004D41
+t1271898815
+s19777
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditingViewController.xib
+c000000004BCFA2BF0000000000001A55
+t1271898815
+s6741
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditing_Prefix.pch
+c000000004BCFA2BF00000000000000BF
+t1271898815
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app
+t1271900387
+s238
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app.dSYM
+t1271900387
+s102
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/Info.plist
+t1271899070
+s607
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/MainWindow.nib
+t1271899071
+s1193
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/PkgInfo
+t1271899070
+s8
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing
+t1271900387
+s22528
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditingViewController.nib
+t1271899071
+s795
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/EditingView.o
+t1271900069
+s45904
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditing.LinkFileList
+c000000004BCFA8BD00000000000002C8
+t1271900349
+s712
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingAppDelegate.o
+t1271899072
+s43928
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingViewController.o
+t1271900350
+s36892
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/UIKeyInputExampleView.o
+t1271900387
+s42912
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/main.o
+t1271899072
+s6012
+
+N/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/main.m
+c000000004BCFA2C0000000000000016F
+t1271898816
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch.gch
+t1271899072
+s15170576
+
+NTextEditing-Info.plist
+c000000004BCFA2BF000000000000038D
+t1271898815
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293593187#293593187#0(0"0(0#1#0"4300725088#0"0#
+
+CCompileC build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/EditingView.o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/EditingView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293592869.231578
+e293592869.447527
+r1
+xCompileC
+xbuild/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/EditingView.o
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/EditingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/EditingView.m293592869#293592869#0(0"0(0#0#94"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/EditingView.m4300725088#2355"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-generated-files.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-own-target-headers.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-all-target-headers.hmap" -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-project-headers.hmap" "-F/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/include" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources/i386" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources" -include /var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch -c "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/EditingView.m" -o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/EditingView.o"0#
+
+CCompileC build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingAppDelegate.o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293591872.582407
+e293591872.675899
+r1
+xCompileC
+xbuild/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingAppDelegate.o
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingAppDelegate.m293591872#293591872#0(0"0(0#0#105"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingAppDelegate.m4300725088#2377"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-generated-files.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-own-target-headers.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-all-target-headers.hmap" -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-project-headers.hmap" "-F/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/include" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources/i386" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources" -include /var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch -c "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingAppDelegate.m" -o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingAppDelegate.o"0#
+
+CCompileC build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingViewController.o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293593149.948585
+e293593150.218327
+r1
+xCompileC
+xbuild/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingViewController.o
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@116"Compile /Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingViewController.m293593149#293593150#0(0"0(0#0#108"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingViewController.m4300725088#2383"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-generated-files.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-own-target-headers.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-all-target-headers.hmap" -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-project-headers.hmap" "-F/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/include" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources/i386" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources" -include /var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch -c "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/TextEditingViewController.m" -o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditingViewController.o"0#
+
+CCompileC build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/UIKeyInputExampleView.o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/UIKeyInputExampleView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293593187.745580
+e293593187.849262
+r1
+xCompileC
+xbuild/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/UIKeyInputExampleView.o
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/UIKeyInputExampleView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/UIKeyInputExampleView.m293593187#293593187#0(0"0(0#0#104"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/UIKeyInputExampleView.m4300725088#2375"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-generated-files.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-own-target-headers.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-all-target-headers.hmap" -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-project-headers.hmap" "-F/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/include" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources/i386" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources" -include /var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch -c "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/Classes/UIKeyInputExampleView.m" -o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/UIKeyInputExampleView.o"0#
+
+CCompileC build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/main.o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s293591872.581444
+e293591872.667113
+r1
+xCompileC
+xbuild/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/main.o
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/main.m293591872#293591872#0(0"0(0#0#79"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/main.m4300725088#2333"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-generated-files.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-own-target-headers.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-all-target-headers.hmap" -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-project-headers.hmap" "-F/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/include" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources/i386" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources" -include /var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch -c "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/main.m" -o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/MainWindow.xib"
+s293591870.933606
+e293591871.508766
+r1
+xCompileXIB
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib293591870#293591871#0(0"0(0#0#87"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/MainWindow.xib4300725088#592"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/MainWindow.nib" "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/MainWindow.xib"0#
+
+CCompileXIB "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditingViewController.xib"
+s293591870.975009
+e293591871.505697
+r1
+xCompileXIB
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditingViewController.xib
+lSLF07#2@40"CompileXIB TextEditingViewController.xib293591870#293591871#0(0"0(0#0#102"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditingViewController.xib4300725088#622"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditingViewController.nib" "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditingViewController.xib"0#
+
+CGenerateDSYMFile "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app.dSYM" "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing"
+s293593187.913337
+e293593187.930879
+r1
+xGenerateDSYMFile
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app.dSYM
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/TextEditing.app.dSYM build/Debug-iphonesimulator/TextEditing.app/TextEditing293593187#293593187#0(0"0(0#0#128"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing4300725088#503"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing" -o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app.dSYM"0#
+
+CLd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing" normal i386
+s293593187.849436
+e293593187.913237
+r1
+xLd
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing
+xnormal
+xi386
+lSLF07#2@133"Link /Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing293593187#293593187#0(0"0(0#0#0"4300725088#1062"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk "-L/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator" "-F/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator" -filelist "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/Objects-normal/i386/TextEditing.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/TextEditing"0#
+
+CProcessInfoPlistFile "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/Info.plist" TextEditing-Info.plist
+s293591870.900861
+e293591870.933519
+r1
+xProcessInfoPlistFile
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/Info.plist
+xTextEditing-Info.plist
+lSLF07#2@30"Process TextEditing-Info.plist293591870#293591870#0(0"0(0#0#95"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditing-Info.plist4300725088#599"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TextEditing-Info.plist -genpkginfo "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app/Info.plist"0#
+
+CProcessPCH /var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch.gch TextEditing_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s293591871.508871
+e293591872.581260
+r1
+xProcessPCH
+x/var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch.gch
+xTextEditing_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile TextEditing_Prefix.pch293591871#293591872#0(0"0(0#0#95"/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditing_Prefix.pch4300725088#2185"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-generated-files.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-own-target-headers.hmap" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-all-target-headers.hmap" -iquote "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/TextEditing-project-headers.hmap" "-F/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/include" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources/i386" "-I/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/TextEditing.build/Debug-iphonesimulator/TextEditing.build/DerivedSources" -c "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/TextEditing_Prefix.pch" -o /var/folders/tQ/tQtxqFdbHyy8rEfjKZDSyU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TextEditing_Prefix-gcanhdodvwvlzmaqpeyzrulfcwrs/TextEditing_Prefix.pch.gch0#
+
+CTouch "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app"
+s293593187.930970
+e293593187.933454
+r1
+xTouch
+x/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app
+lSLF07#2@122"Touch /Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app293593187#293593187#0(0"0(0#0#0"4300725088#354"    cd "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/jsambells/Documents/Tropical_Pixels/Apps/Other Source/TextEditing/build/Debug-iphonesimulator/TextEditing.app"0#
+
